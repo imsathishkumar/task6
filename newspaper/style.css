@@ -1,0 +1,77 @@
+.top{
+    margin-top: 35px;
+    font-size: small;
+    font-weight: bold;
+    height: 35px;
+}
+.bottom{
+    margin-top: 10px;
+    font-size: small;
+    font-weight: bold;
+    height: 35px;
+}
+.top2{
+    border-top:  2px solid rgba(31, 30, 30, 0.459) ;
+    border-bottom: 2px solid rgba(31, 30, 30, 0.459);
+    font-size: 1.285rem;
+}
+.headline{
+    margin-top: 0%;
+    padding-top: 0%;
+    font-weight: bold;
+    font-size: 6.92rem;
+
+}
+.headline2{
+    padding: 0;
+    font-weight: bold;
+    font-size: 1.9rem;
+    text-align: justify;
+}
+.headline3{
+    font-weight: bold;
+    text-align: justify;
+    font-size: 1.4rem;
+}
+.pinmark{
+    background-color: brown;
+    font-size: 1.5rem;
+    color: white;
+    text-align: justify;
+}
+.details{
+    font-size: 14px;
+    text-align: left;
+    text-align: justify;
+}
+.image1{
+    margin-top: 15px;
+    background-color: rgba(128, 128, 128, 0.712);
+    height:500px;
+}
+.image2{
+    margin-top:25px ;
+    background-color: rgba(128, 128, 128, 0.712);
+    height: 180px;
+}
+.image3{
+    background-color: rgba(128, 128, 128, 0.712);
+    height: 560px;
+}
+.image4{
+
+    background-color: rgba(128, 128, 128, 0.712);
+    height: 220px;
+}
+.image5{
+    background-color: rgba(128, 128, 128, 0.712);
+    height: 250px;
+}
+.headlinedanger{
+    margin-top: 15px;
+    color: brown;
+    text-align: center;
+    font-size: 1.75rem;
+    font-weight: bold;
+
+}
